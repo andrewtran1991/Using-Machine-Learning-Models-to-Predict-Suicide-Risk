@@ -1,9 +1,9 @@
-# ISYE6740_Final-Project
-Project Title: Using Machine Learning Models to Predict Suicide Risk among High School Students in California
-Author: Anh L Tran
+# Using Machine Learning Models to Predict Suicide Risk among High School Students
+This is my graduate-course project for my Computational Data Analysis/Machine Learning (ISYE6740) class. In this project, I analyzed the Youth Risk Behavior Survey (YRBS) data https://www.cdc.gov/healthyyouth/data/yrbs/index.htm and built 3 machine learning classification models: binary logistic regression, k-nearest neighbor, and decision tree to predict low and high suicide risk based on a variety of health-risk behaviors among high school students in California.
 
-## Description:
-This is my graduate-course project for my Computational Data Analysis/Machine Learning class. In this project, I analyzed the Youth Risk Behavior Survey (YRBS) data https://www.cdc.gov/healthyyouth/data/yrbs/index.htm and built 3 machine learning classification models: binary logistic regression, k-nearest neighbor, and decision tree to predict low and high suicide risk based on a variety of health-risk behaviors among high school students in California.
+This project was then implemented to create a PowerBI dashboard for community experience project
+
+<iframe title="Dashboard_1.9.4_YRBS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjBiYThjNWYtNGQ0MS00N2JlLWE2NjUtMTM5NDY0NGJiYjYzIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9&pageName=ReportSection2fc578f64aac3942f7a0" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Files:
  - data: the data includes only the YRBS data limited to the state of California in 2015 and 2017. For the full YRBS data, you can access it at https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
